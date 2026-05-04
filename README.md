@@ -38,8 +38,13 @@ python test_automation.py --excel "test_automation/Assignment 1 - Test cases.xls
 
 ## Project Structure
 test_automation/
+
 ├── IT23603318_Test_cases.xlsx
+
 ├── IT23603318_test_automation.py
+
 ├── IT23603318_Requirements.txt
+
 ├── IT23603318_Commands.txt
+
 ├── IT23603318_README.md
